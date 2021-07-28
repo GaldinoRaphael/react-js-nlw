@@ -28,6 +28,8 @@ This project was developed using the following technologies:
 
 Clone the project and access the folder.
 
+Create a local env for firebase service
+
 ```bash
 $ git clone https://github.com/guilhermecapitao/letmeask.git
 $ cd letmeask
